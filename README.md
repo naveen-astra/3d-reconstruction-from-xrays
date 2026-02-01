@@ -112,9 +112,6 @@ This project demonstrates fundamental principles in medical imaging without mach
 - Performance optimization through GPU acceleration
 - Quantitative evaluation metrics for reconstruction accuracy
 
-## Author
-
-Developed as part of computer vision coursework at Amrita University.
 
 ## License
 
